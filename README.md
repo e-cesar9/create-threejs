@@ -1,12 +1,35 @@
-
 # three-boilerplate
 
-Welcome to the **three-boilerplatee** README! This document provides an overview of the project, setup instructions, usage examples, and more.
-
+Welcome to the **three-boilerplate** README! This document provides an overview of the project, setup instructions, usage examples, and more.
 
 ## Installation
 
+```bash
 npm init threejs
 cd three-boilerplate
 npm install
 npm run dev
+```
+
+## Getting Started
+
+After running the commands above, your Three.js development environment will be ready to use.
+
+## Features
+
+- Modern Three.js setup
+- Development server with hot reload
+- Optimized build configuration
+- Clean project structure
+
+## Usage
+
+Start developing your Three.js application by editing the main files in your project directory.
+
+## Contributing
+
+Feel free to submit issues and pull requests to help improve this boilerplate.
+
+## License
+
+MIT License
