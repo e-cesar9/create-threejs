@@ -5,7 +5,7 @@ Welcome to the **three-boilerplate** README! This document provides an overview 
 ## Installation
 
 ```bash
-npm init threejs
+npx create-threejs
 cd three-boilerplate
 npm install
 npm run dev
