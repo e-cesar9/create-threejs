@@ -11,6 +11,12 @@ npm install
 npm run dev
 ```
 
+Or download the repo and : 
+```bash
+npm install
+npm run dev
+```
+
 ## Getting Started
 
 After running the commands above, your Three.js development environment will be ready to use.
