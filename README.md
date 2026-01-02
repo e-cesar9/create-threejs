@@ -1,4 +1,5 @@
 # three-boilerplate
+A boilerplate to build Three.js projects
 
 Welcome to the **three-boilerplate** README! This document provides an overview of the project, setup instructions, usage examples, and more.
 
